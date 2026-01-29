@@ -5,7 +5,7 @@ public class Komentar {
     }
 
     /**
-     * 
+     * Method untuk melakukan penjumlahan nilai a dan b
      * @param a nilai a
      * @param b nilai b
      * @return a + b
