@@ -2,9 +2,9 @@ package polymorphism;
 
 public class Employee {
 
-    String name;
+    public String name;
 
-    Employee(String name) {
+    public Employee(String name) {
         this.name = name;
     }
 }
